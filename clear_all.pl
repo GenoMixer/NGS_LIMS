@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
-# this script clear all data in tables !!!!
-# clear all tables
+# this script clears all data in the tables !!!!
 
 
 use PARS16;
