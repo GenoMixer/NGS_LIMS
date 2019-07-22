@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# this script create databe tables
+# this script creates data tables
 
 
 use PARS16;
