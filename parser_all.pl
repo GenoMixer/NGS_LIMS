@@ -2,7 +2,7 @@
 # version 1.0 2016.07.12
 ##############################
 
-# Search new folder, parse all files ( runParameters.xml, SampleSheet.csv, RunInfo.xml, First_Base_Report.htm ) in it and insert data into tables.
+# Searches new folder, parse all files ( runParameters.xml, SampleSheet.csv, RunInfo.xml, First_Base_Report.htm ) in it and inserts data into tables.
 
 use PARS16;
 
