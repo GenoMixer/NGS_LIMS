@@ -2,7 +2,7 @@
 # version 1.0 2016.07.12
 ##############################
 
-# Table with Run_IDs 
+# Creates table with Run_IDs 
 
 
 use PARS16;
