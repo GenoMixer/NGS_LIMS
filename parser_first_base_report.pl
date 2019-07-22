@@ -2,10 +2,7 @@
 # version 1.0 2016.07.12
 ##############################
 
-# The second table is the SampleSheet.csv file where the first lines until the [Data] section should be
-# skipped. The Sample_IDs are not unique at the moment and can be redundant. All columns from the
-# header should be read into the database as indicated in the database schema. CSV module for parsing
-# can be used.
+# Reads the First Base Report
 
 use PARS16;
 #use HTML::PullParser;
