@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 # version 1.0 2016.07.12
+# author s.sivalingam
 ##############################
 
 # Searches new folder, parse all files ( runParameters.xml, SampleSheet.csv, RunInfo.xml, First_Base_Report.htm ) in it and inserts data into tables.
