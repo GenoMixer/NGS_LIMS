@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 # version 1.0 2016.07.12
+# author s.sivalingam
 ##############################
 
 # Creates table with Run_IDs 
